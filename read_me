@@ -1,0 +1,9 @@
+Criar projeto: yarn create vite web --template react-ts
+Rodar: yarn dev
+Deve rodar o back-end node_heat =>yarn dev
+yarn prisma studio => editar mesnsagens do back-end
+yarn add sass
+yarn add react-icons
+yarn add axios
+yarn add socket.io-client
+Aula 2(front-end)
